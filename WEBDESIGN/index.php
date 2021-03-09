@@ -25,6 +25,8 @@
           <li role="presentation"><a href="#gallery">GALLERY</a></li>
           <li role="presentation"><a href="#about">ABOUT</a></li>
           <li ><a href="assets/form.html">SIGN IN</a></li>
+          <li><a href="form.html">FIBONACCI</a></li>
+          <li><a href="form.html">DERET ARITMATIKA</a></li>
           <li role="presentation"><a href="#"><i class="glyphicon glyphicon-search"></i></a></li>
         </ul>
       </div>

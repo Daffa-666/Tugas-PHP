@@ -29,6 +29,8 @@
                         <li role="presentation"><a href="#gallery">GALLERY</a></li>
                         <li role="presentation"><a href="#about">ABOUT</a></li>
                         <li><a href="form.html">SIGN IN</a></li>
+                        <li><a href="fibo.php">FIBONACCI</a></li>
+                        <li><a href="deretf.php">DERET ARITMATIKA</a></li>
                         <li role="presentation"><a href="#"><i class="glyphicon glyphicon-search"></i></a></li>
                     </ul>
                 </div>
